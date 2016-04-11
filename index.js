@@ -66,5 +66,3 @@ module.exports = {
   initializeGenerator: initializeGenerator,
   generateHaiku: generateHaiku
 };
-
-// m.seed(s, generateHaiku);
