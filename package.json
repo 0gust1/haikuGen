@@ -1,0 +1,18 @@
+{
+  "name": "haiku-gen-french",
+  "version": "1.0.0",
+  "description": "Un générateur de haikus pour frenchies",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "0gust1",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  },
+  "dependencies": {
+    "markov": "0.0.7",
+    "metriques": "https://github.com/WhiteFangs/metriques.js.git#master"
+  }
+}
