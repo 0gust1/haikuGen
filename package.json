@@ -1,5 +1,5 @@
 {
-  "name": "haiku-gen-french",
+  "name": "haikugen-fr",
   "version": "1.0.0",
   "description": "Un générateur de haikus pour frenchies",
   "main": "index.js",
